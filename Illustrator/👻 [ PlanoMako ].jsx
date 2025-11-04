@@ -1,9 +1,7 @@
 /*
   Ghostbyte ObjectCreator.jsx
-  Illustrator ExtendScript + ScriptUI
-  - All measurement fields have unit dropdowns (auto / pixels / inches)
-  - Behaves like Illustrator Character panel
-  - Create Front View button outside tabs
+  Written by Victor Paredes
+  https://victorpared.es
 */
 
 #target illustrator
